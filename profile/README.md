@@ -1,4 +1,6 @@
-[Namesake](https://namesake.fyi)'s goal is to make it easier to update your legal name and gender marker. 🏳️‍⚧️
+# Welcome to Namesake on GitHub 🏳️‍⚧️👩‍💻
+
+[Namesake](https://namesake.fyi)'s goal is to make it easier to update your legal name and gender marker. 
 
 Join our community on [Discord](https://namesake.fyi/chat)!
 
